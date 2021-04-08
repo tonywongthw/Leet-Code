@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+//to update class name in order to use the file
+
 class Solution {
     public void rotate(int[] nums, int k) {
         int [] nums2 = new int [nums.length];

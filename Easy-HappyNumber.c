@@ -6,7 +6,7 @@ bool isHappy(int n){
     int sum=n;
     int count=0;
     
-    // check if the answer of sum is 1
+    // check if the value of sum is 1
     while (sum!=1){
         sum = sumofsq(sum);
         printf("sum is %d \n", sum);

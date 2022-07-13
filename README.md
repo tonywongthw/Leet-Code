@@ -7,8 +7,8 @@ This repository contains some of the codes that Tony has written for scoring in 
 
 # About LeetCode
 
-LeetCode is a global coding platform where software engineers practice solving coding problems . The main users are software engineers. LeetCode has 2,000 questions for users to practice, covering different programming concepts.
+LeetCode is a global coding platform where software engineers practice solving coding problems . The main users are software engineers. LeetCode has 2,000+ questions for users to practice, covering different programming concepts.
 
 # Tony's Ranking
 
-Tony's has coded 150+ solutions on the platform, gradually climbing up his ranking on the platform. As at 1 July 2022, Tony is ranked top 20% among all the software engineers globally on the platform.
+Tony's has coded 150+ solutions on the platform, gradually climbing up his ranking on the platform. As at 1 July 2022, Tony is ranked top 20% among 1M+ software engineers on the global platform.
